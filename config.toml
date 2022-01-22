@@ -1,0 +1,52 @@
+baseURL = 'https://onurerhan.github.io'
+languageCode = 'en-us'
+title = 'Onur Erhan'
+theme = "hugo-coder"
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    weight = 2
+    url  = "posts/"
+  [[menu.main]]
+    name = "Projects"
+    weight = 3
+    url  = "projects/"
+  [[menu.main]]
+    identifier = "about"
+    name = "About Me"
+    url = "/about/"
+    weight = 4
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
+
+[params]
+  author = "Onur Erhan"
+  colorScheme = "dark"
+  menu_item_separator = " - "
+  avatarURL = "/images/avatar.jpg"
+  keywords = "blog,developer,personal"
+  since = 2022
+  
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/onurerhan/"
+[[params.social]]
+  name = "Gitlab"
+  icon = "fa fa-gitlab fa-2x"
+  weight = 2
+  url = "https://gitlab.com/onurerhan/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/OnurErh/"
