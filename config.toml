@@ -2,6 +2,7 @@ baseURL = 'https://onurerhan.github.io'
 languageCode = 'en-us'
 title = 'Onur Erhan'
 theme = "hugo-coder"
+author = "Onur Erhan"
 [menu]
   [[menu.main]]
     identifier = "home"
@@ -50,3 +51,8 @@ theme = "hugo-coder"
   icon = "fa fa-twitter fa-2x"
   weight = 3
   url = "https://twitter.com/OnurErh/"
+[[params.social]]
+  name = "Instagram"
+  icon = "fa fa-instagram fa-2x"
+  weight = 3
+  url = "https://instagram.com/onur_erh/"
