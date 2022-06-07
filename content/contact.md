@@ -2,4 +2,4 @@
 title = "Contact"
 +++
 
-You can send me a mail at contact@onurerhan.com 
+You can send me an email at contact@onurerhan.com 
