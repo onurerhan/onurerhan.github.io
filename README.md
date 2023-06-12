@@ -7,8 +7,11 @@ https://www.markdownguide.org/cheat-sheet
 
 ### run hugo server
 
-`.\hugo.exe server -D`
+``` bash
+.\hugo.exe server -D
+```
 
 ### create new post
-`.\hugo.exe new posts/post.md`
-
+``` bash
+.\hugo.exe new posts/post.md
+```
