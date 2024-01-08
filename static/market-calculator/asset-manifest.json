@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/market-calculator/static/js/main.c394e28d.js",
+    "main.js": "/market-calculator/static/js/main.ca4db90c.js",
     "static/js/583.b5b3151c.js": "/market-calculator/static/js/583.b5b3151c.js",
     "static/media/Ionicons.ttf": "/market-calculator/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "static/media/MaterialIcons.ttf": "/market-calculator/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
@@ -14,11 +14,11 @@
     "favicon-16.png": "/market-calculator/favicon-16.png",
     "manifest.json": "/market-calculator/manifest.json",
     "serve.json": "/market-calculator/serve.json",
-    "main.c394e28d.js.map": "/market-calculator/static/js/main.c394e28d.js.map",
+    "main.ca4db90c.js.map": "/market-calculator/static/js/main.ca4db90c.js.map",
     "583.b5b3151c.js.map": "/market-calculator/static/js/583.b5b3151c.js.map"
   },
   "entrypoints": [
     "static/js/583.b5b3151c.js",
-    "static/js/main.c394e28d.js"
+    "static/js/main.ca4db90c.js"
   ]
 }
