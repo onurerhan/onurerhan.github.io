@@ -56,3 +56,8 @@ author = "Onur Erhan"
   icon = "fa fa-instagram fa-2x"
   weight = 3
   url = "https://instagram.com/onur_erh/"
+
+  [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
