@@ -13,6 +13,6 @@ series: []
 A simple calculator for calculating the total before going to checkout in the market.
 You can use it [here](/market-calculator) or download it from the Google Play Store.
 
-[![Google Play Store link](/images/Get-It-On-Google-Play-Logo-PNG.png)](https://play.google.com/store/apps/details?id=com.OnurErhan.marketcalculator)
+[![Google Play Store link](/images/Get-It-On-Google-Play-Logo-PNG.png)](https://play.google.com/store/apps/details?id=com.onurerhan.marketcalculator)
 
 <iframe src="/market-calculator" height="1000" width="100%" ></iframe>
