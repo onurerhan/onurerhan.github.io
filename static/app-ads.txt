@@ -128,3 +128,4 @@ appads.in, 106246, RESELLER
 appads.in, 107606, RESELLER
 mintegral.com, 10038, RESELLER
 yeahmobi.com, 5135195, RESELLER
+google.com, pub-3920209699659120, DIRECT, f08c47fec0942fa0
